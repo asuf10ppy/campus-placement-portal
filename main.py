@@ -8,8 +8,6 @@ Made by: Py-oneers
                     DHRUVA
                     PUSHKAR
 Course: Python Project 2026
-Date: 
-
 
 WHAT THIS PROGRAM IS
     A worked course project showing how university campus placements work.
