@@ -4,7 +4,7 @@ Made by: Py-oneers
                     Tanush Juturu       BC2026118
                     Aditya S Uranakar   BC2026008
                     SRINIVAS            
-                    KRISHNA
+                    Darisipudi Kasuhik  BC2026032
                     DHRUVA
                     PUSHKAR
 Course: Python Project 2026
