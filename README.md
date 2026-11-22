@@ -10,7 +10,7 @@
 | Srinivas | |
 | Darisipudi Krishna Kaushik | BC2026032 |
 | Dhruva | |
-| Pushkar | |
+| Pushkar Peshwe | BC2026079 |
 
 ## What This Program Is
 
