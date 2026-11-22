@@ -6,7 +6,7 @@ Made by: Py-oneers
                     SRINIVAS            
                     Darisipudi Kasuhik  BC2026032
                     DHRUVA
-                    PUSHKAR
+                    Pushkar Peshwe      BC2026079
 Course: Python Project 2026
 
 WHAT THIS PROGRAM IS
