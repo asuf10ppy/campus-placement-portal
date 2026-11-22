@@ -3,7 +3,7 @@ Campus Placement Portal API
 Made by: Py-oneers
                     Tanush Juturu       BC2026118
                     Aditya S Uranakar   BC2026008
-                    SRINIVAS            
+                    SRINIVAS            BC2026114
                     Darisipudi Kasuhik  BC2026032
                     DHRUVA
                     Pushkar Peshwe      BC2026079
