@@ -1,0 +1,7 @@
+# data files are created by the program on first run
+students.json
+companies.json
+jobs.json
+applications.json
+__pycache__/
+.venv/
