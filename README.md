@@ -2,7 +2,6 @@
 
 **Made by:** Team Py-oneers  
 **Course:** Python Project 2026  
-**Date:**  
 
 | Name | Roll No |
 | --- | --- |
