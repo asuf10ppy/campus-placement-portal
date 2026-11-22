@@ -8,7 +8,7 @@
 | Tanush Juturu | BC2026118 |
 | Aditya S Uranakar | BC2026008 |
 | Srinivas | |
-| Krishna | |
+| Darisipudi Krishna Kaushik | BC2026032 |
 | Dhruva | |
 | Pushkar | |
 
