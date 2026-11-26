@@ -5,7 +5,7 @@ Made by: Py-oneers
                     Aditya S Uranakar   BC2026008
                     SRINIVAS            BC2026114
                     Darisipudi Kasuhik  BC2026032
-                    DHRUVA
+                    Dhruva Gururaja Rao IC2026014
                     Pushkar Peshwe      BC2026079
 Course: Python Project 2026
 
