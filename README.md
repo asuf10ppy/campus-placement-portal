@@ -9,7 +9,7 @@
 | Aditya S Uranakar | BC2026008 |
 | Srinivas | BC2026114 |
 | Darisipudi Krishna Kaushik | BC2026032 |
-| Dhruva | |
+| Dhruva Gururaja Rao | IC2026014 |
 | Pushkar Peshwe | BC2026079 |
 
 ## What This Program Is
